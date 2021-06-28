@@ -1,4 +1,4 @@
-# Harddrive
+# Hard drive
 
 ## Lister les disques, trouver les modèles
 
