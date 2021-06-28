@@ -9,3 +9,8 @@
 ## Hardware
 
 * [Gestion des disques](harddrive.md)
+
+
+## VPN
+
+* [Wireguard](wireguard.md)
