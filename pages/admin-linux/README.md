@@ -2,4 +2,4 @@
 
 ## Hardware
 
-* [Gestion des disques](pages/harddrive.md)
+* [Gestion des disques](harddrive.md)
