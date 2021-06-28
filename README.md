@@ -4,4 +4,4 @@ Un repo pour partager mes notes diverses et variées sur des sujets divers et va
 
 * [Unix, *nix et consors](pages/nix/README.md)
 * [Distros](pages/nix/distros/README.md)
-* [Admin Linux](pages/nix/admin-linux/README.md)
+* [Admin Linux](pages/admin-linux/README.md)
