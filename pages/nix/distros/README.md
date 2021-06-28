@@ -2,4 +2,4 @@
 
 News sur les différentes distro https://distrowatch.com/
 
-* [Ubuntu](ubuntu.md)
+* [Ubuntu](ubuntu/README.md)
