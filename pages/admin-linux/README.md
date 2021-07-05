@@ -1,5 +1,9 @@
 # Admin Linux
 
+## Distro
+
+* [Debian](debian.md)
+
 ## Hardening
 
 * [Linux hardening guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
