@@ -1,5 +1,7 @@
 # Vim
 
+start with running `vimtutor`
+
 ## Deleting text
 
 * `dd` delete current line
