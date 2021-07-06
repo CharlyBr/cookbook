@@ -11,5 +11,5 @@ open term and execute a command
 paste command output in current file
 
 ```
-:!. [command]
+:.! [command]
 ```
