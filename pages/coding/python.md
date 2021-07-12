@@ -22,13 +22,6 @@
 * [The goal of this documentation is to help you become a productive Python developer.](https://github.com/charlax/python-education)
 * [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 
-### Formations achetées / en cours
-
-* [Doc String](https://www.docstring.fr/)
-* https://www.udemy.com/course/pythonforbeginnersintro/learn/lecture/7717096
-* https://www.udemy.com/course/formation-complete-python/learn/lecture/14781050
-
-
 ### Exos intereactifs
 
 * https://thecodex.me/projects/bitcoin-crypto-price-visualizer
