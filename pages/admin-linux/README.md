@@ -2,7 +2,7 @@
 
 ## Distro
 
-* [Debian](debian.md)
+* [Debian](../nix/distros/debian/README.md)
 
 ## Containers
 
