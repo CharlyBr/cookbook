@@ -15,11 +15,6 @@
 * [Hardening server Linux](https://k-lfa.info/hardening-linux-tips/)
 * [Linux hardening: A 15-step checklist for a secure Linux server](https://www.pluralsight.com/blog/it-ops/linux-hardening-secure-server-checklist) *2017*
 
-## Hardware
-
-* [Gestion des disques](harddrive.md)
-
-
 ## VPN
 
 * [Wireguard](wireguard.md)
