@@ -1,3 +1,0 @@
-# Debian
-
-* [APT](apt.md)
