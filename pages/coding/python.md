@@ -21,6 +21,7 @@
 * [Project based learning](https://github.com/tuvtran/project-based-learning#python)
 * [The goal of this documentation is to help you become a productive Python developer.](https://github.com/charlax/python-education)
 * [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
+* [How To Code in Python](https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program)
 
 ### Exos intereactifs
 
